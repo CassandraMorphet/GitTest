@@ -1,0 +1,2 @@
+Hello, Class!
+We're learning git today.
